@@ -12,4 +12,3 @@ while x<=loopterms:
     n1=n2
     n2=n3
     x=x+1
-    
